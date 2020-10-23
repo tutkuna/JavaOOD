@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e91daace-a3de-4984-ac5c-afa4fc28ecd9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1U8LcBjBlXiELdz5cRIsJlwJfx9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/cs3500/marblesolitaire" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cs3500.marblesolitaire.model.hw04" />
+      <recent name="cs3500.marblesolitaire.controller" />
+      <recent name="cs3500.marblesolitaire.model.hw02" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Triangle size 5">
+    <configuration name="Triangle size 5" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.MarbleSolitaire" />
+      <module name="hw02" />
+      <option name="PROGRAM_PARAMETERS" value="triangle -size 5" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EuropeanSolitaireModelImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.marblesolitaire.model.hw04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.marblesolitaire.model.hw04" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.model.hw04.EuropeanSolitaireModelImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarbleSolitaireControllerImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.marblesolitaire.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.marblesolitaire.controller" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.controller.MarbleSolitaireControllerImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MarbleSolitaireModelImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.marblesolitaire.model.hw02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.marblesolitaire.model.hw02" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.model.hw02.MarbleSolitaireModelImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TriangleSolitaireModelImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hw02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cs3500.marblesolitaire.model.hw04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cs3500.marblesolitaire.model.hw04" />
+      <option name="MAIN_CLASS_NAME" value="cs3500.marblesolitaire.model.hw04.TriangleSolitaireModelImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Triangle size 5" />
+      <item itemvalue="JUnit.EuropeanSolitaireModelImplTest" />
+      <item itemvalue="JUnit.MarbleSolitaireControllerImplTest" />
+      <item itemvalue="JUnit.MarbleSolitaireModelImplTest" />
+      <item itemvalue="JUnit.TriangleSolitaireModelImplTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MarbleSolitaireControllerImplTest" />
+        <item itemvalue="JUnit.EuropeanSolitaireModelImplTest" />
+        <item itemvalue="JUnit.TriangleSolitaireModelImplTest" />
+        <item itemvalue="JUnit.MarbleSolitaireModelImplTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e91daace-a3de-4984-ac5c-afa4fc28ecd9" name="Default Changelist" comment="" />
+      <created>1557681503141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557681503141</updated>
+      <workItem from="1557681504454" duration="12954000" />
+      <workItem from="1558117696007" duration="1657000" />
+      <workItem from="1558362153798" duration="23244000" />
+      <workItem from="1559183079497" duration="29275000" />
+      <workItem from="1559603659789" duration="67000" />
+      <workItem from="1569435316415" duration="146000" />
+      <workItem from="1570046740623" duration="1038000" />
+      <workItem from="1574733357419" duration="20000" />
+      <workItem from="1589314377217" duration="66000" />
+      <workItem from="1589831285230" duration="3316000" />
+      <workItem from="1590014174656" duration="2000" />
+      <workItem from="1590528577288" duration="39000" />
+      <workItem from="1591129351330" duration="397000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="EuropeanSolitaireModelImplTest - 2019.05.31 at 20h 33m 11s.xml">
+      <configuration name="EuropeanSolitaireModelImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EuropeanSolitaireModelImplTest - 2019.05.31 at 20h 34m 34s.xml">
+      <configuration name="EuropeanSolitaireModelImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EuropeanSolitaireModelImplTest - 2019.05.31 at 20h 34m 51s.xml">
+      <configuration name="EuropeanSolitaireModelImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 39m 58s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 40m 41s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 41m 03s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 42m 32s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 44m 24s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 49m 08s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MarbleSolitaireControllerImplTest - 2019.05.31 at 20h 49m 44s.xml">
+      <configuration name="MarbleSolitaireControllerImplTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="766" y="400" width="449" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1589838341358">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state x="766" y="400" width="449" height="288" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1970.0.1486.864/62.0.1858.1080@62.0.1858.1080" timestamp="1589838341358" />
+    <state width="1815" height="274" key="GridCell.Tab.0.bottom" timestamp="1589838345821">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.bottom/1970.0.1486.864/62.0.1858.1080@62.0.1858.1080" timestamp="1589838345821" />
+    <state width="1815" height="274" key="GridCell.Tab.0.center" timestamp="1589838345820">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.center/1970.0.1486.864/62.0.1858.1080@62.0.1858.1080" timestamp="1589838345820" />
+    <state width="1815" height="274" key="GridCell.Tab.0.left" timestamp="1589838345820">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.left/1970.0.1486.864/62.0.1858.1080@62.0.1858.1080" timestamp="1589838345820" />
+    <state width="1815" height="274" key="GridCell.Tab.0.right" timestamp="1589838345820">
+      <screen x="62" y="0" width="1858" height="1080" />
+    </state>
+    <state width="1815" height="274" key="GridCell.Tab.0.right/1970.0.1486.864/62.0.1858.1080@62.0.1858.1080" timestamp="1589838345820" />
+  </component>
+</project>
